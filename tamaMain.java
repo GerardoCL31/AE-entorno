@@ -1,4 +1,4 @@
-public class taamaMain{
+public class tamaMain{
     public static void main(String[]args){
         taamagochi tama1 = new taamagochi();
 		
